@@ -1,0 +1,6 @@
+After writing Html 
+
+1) 1st user kya likhra hai usko display me add krna hai, so we use usestate
+ so we use usestate hook for input ->
+
+2) After onchange, jo likhege ab usko bhi kisi state me store krege taki save rahe
